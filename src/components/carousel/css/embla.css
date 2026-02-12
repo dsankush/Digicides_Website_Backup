@@ -1,0 +1,27 @@
+.embla {
+  max-width: 100%;
+  margin: auto;
+  --slide-height: 500px;
+  --slide-spacing: 1px;
+  --slide-size: 100%;
+}
+
+@media (min-width: 768px) {
+  .embla {
+    --slide-size: 50%;
+  }
+}
+
+.embla__viewport {
+  overflow: hidden;
+}
+.embla__container {
+  display: flex;
+  /* touch-action: pan-y pinch-zoom; */
+  margin-left: calc(var(--slide-spacing) * -1);
+}
+.embla__slide {
+  flex: 0 0 var(--slide-size);
+  min-width: 0;
+  padding-left: var(--slide-spacing);
+}
