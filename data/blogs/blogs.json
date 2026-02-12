@@ -1,0 +1,40 @@
+{
+  "blogs": [
+    {
+      "id": "sample-blog-1",
+      "title": "How Digital Marketing is Transforming Agriculture in India",
+      "subtitle": "A comprehensive look at the digital revolution in farming",
+      "slug": "digital-marketing-transforming-agriculture-india",
+      "content": "<h2>The Digital Revolution in Agriculture</h2><p>Agriculture in India is undergoing a significant transformation. With over 60% of India's population engaged in farming, the adoption of digital tools is becoming increasingly important for sustainable growth.</p><h2>Key Digital Trends</h2><ul><li><strong>Mobile-First Approach:</strong> Farmers are increasingly using smartphones to access market prices, weather information, and best practices.</li><li><strong>WhatsApp Communities:</strong> Agricultural brands are leveraging WhatsApp groups to share timely information with farmers.</li><li><strong>Audio Conferencing:</strong> Mass audio calls enable brands to reach farmers who may not be comfortable with text-based communication.</li></ul><h2>The Road Ahead</h2><p>As connectivity improves in rural India, we expect to see even greater adoption of digital tools in agriculture. Brands that invest in understanding farmer needs and delivering value through digital channels will be best positioned to succeed.</p>",
+      "author": "Digicides Team",
+      "category": "Marketing",
+      "tags": ["digital marketing", "agriculture", "rural india", "farmer engagement"],
+      "thumbnail": null,
+      "metaTitle": "Digital Marketing in Agriculture India | Digicides Blog",
+      "metaDescription": "Discover how digital marketing is transforming agriculture in India and learn about key trends in farmer engagement and rural marketing.",
+      "status": "published",
+      "createdAt": "2024-01-15T10:30:00.000Z",
+      "updatedAt": "2024-01-15T10:30:00.000Z",
+      "wordCount": 150,
+      "readingTime": 1
+    },
+    {
+      "id": "sample-blog-2",
+      "title": "5 Effective Strategies for Farmer Engagement",
+      "subtitle": "Building lasting relationships with rural audiences",
+      "slug": "5-effective-strategies-farmer-engagement",
+      "content": "<h2>Introduction</h2><p>Engaging with farmers requires a unique approach that considers their specific needs, communication preferences, and daily challenges. Here are five proven strategies that work.</p><h2>1. Speak Their Language</h2><p>Communicate in regional languages and use simple, jargon-free terminology. Farmers appreciate content that respects their intelligence while being easy to understand.</p><h2>2. Leverage Audio Content</h2><p>Many farmers prefer audio over text. Mass audio conferencing and voice messages can be highly effective for product training and awareness campaigns.</p><h2>3. Timing Matters</h2><p>Schedule your communications around farming cycles. Early morning and evening hours often work best when farmers are not in the fields.</p><h2>4. Provide Genuine Value</h2><p>Share practical tips, weather updates, and market prices. Content that helps farmers in their daily work builds trust and loyalty.</p><h2>5. Build Community</h2><p>Create platforms where farmers can share experiences and learn from each other. Peer recommendations are incredibly powerful in rural communities.</p>",
+      "author": "Digicides Team",
+      "category": "Best Practices",
+      "tags": ["farmer engagement", "rural marketing", "communication strategies"],
+      "thumbnail": null,
+      "metaTitle": "Farmer Engagement Strategies | Digicides Blog",
+      "metaDescription": "Learn 5 effective strategies for engaging with farmers and building lasting relationships with rural audiences in India.",
+      "status": "published",
+      "createdAt": "2024-02-20T14:00:00.000Z",
+      "updatedAt": "2024-02-20T14:00:00.000Z",
+      "wordCount": 200,
+      "readingTime": 1
+    }
+  ]
+}
