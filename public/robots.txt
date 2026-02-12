@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /under-construction
+
+Allow: /
+
+Sitemap: https://www.digicides.com/sitemap.xml
